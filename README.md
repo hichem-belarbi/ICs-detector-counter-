@@ -1,6 +1,15 @@
 # Component Counter 
 
-A desktop application for real-time detection and counting of electronic components using a custom-trained YOLOv8 model and a live camera feed.
+<p align="center">
+  <strong>Real-time electronic component detection and counting using YOLOv8</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python">
+  <img src="https://img.shields.io/badge/YOLOv8-Ultralytics-red">
+  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-green">
+  <img src="https://img.shields.io/badge/PyQt5-Desktop%20UI-orange">
+</p>
 
 ---
 
@@ -73,9 +82,9 @@ The system will process the video stream and display results in real time.
 
 ## Screenshot
 
-![Application Screenshot](screenshots/example.png)
+![Application Screenshot](screenshots/ss.jfif)
 
-*(Replace `example.png` with your actual screenshot file.)*
+
 
 ---
 
